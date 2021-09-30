@@ -1,6 +1,6 @@
 # Rockbuster-Film-Rentals
 
-This was a case study for my one of CareerFoundry course's Tasks which focused on the following new skills:
+This was my third CareerFoundry case study which focused on the following new skills:
 1. Online analytical processing databases (OLAP) and relational database management systems (RDBMS)
 2. Setting up a database environment using PostgreSQL
 3. Relational database, its keys, data types, and schemas
